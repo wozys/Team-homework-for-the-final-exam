@@ -1,0 +1,12 @@
+Package: FGIST
+Type: Package
+Title: FGroupIST
+Version: 1.0
+Date: 2018-01-03
+Author: Ding Fei, Zhou ya, Chen yinyi
+Maintainer: The package maintainer <2016000098@ruc.edu.cn>
+Description: This is a package includes the models: Group Iterative Spectrum Thresholding and Fast Group Iterative Spectrum Thresholding methods .
+License: GNU GPLv3
+Imports: Rcpp (>= 0.12.13)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.0.1
